@@ -4,7 +4,7 @@ sql:
 toc: false
 ---
 
-# SQL in Observable: Gaia
+# 2. SQL in Observable: Gaia
 
 To run SQL queries, create a SQL fenced code block (<code>```sql</code>). For example, to query the first 10 rows from the `gaia` table:
 
